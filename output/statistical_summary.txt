@@ -1,0 +1,38 @@
+DIFFERENTIAL GENE EXPRESSION ANALYSIS SUMMARY
+==================================================
+
+Analysis Date: 2025-08-05 14:17:00
+
+STATISTICAL SUMMARY:
+  Total Genes Analyzed: 1000
+  Significant Genes: 1
+  Upregulated Genes: 54
+  Downregulated Genes: 77
+  Mean Fold Change Significant: 2.04
+  Max Fold Change: 3.14
+  Min P Value: 4.37e-02
+  Percent Significant: 0.10%
+
+TOP 10 UPREGULATED GENES:
+  Gene_0875: FC=2.04, p=4.37e-02
+  Gene_0928: FC=1.54, p=2.87e-01
+  Gene_0506: FC=1.56, p=2.87e-01
+  Gene_0973: FC=2.40, p=5.24e-01
+  Gene_0629: FC=2.68, p=5.79e-01
+  Gene_0162: FC=2.74, p=6.68e-01
+  Gene_0812: FC=1.82, p=6.68e-01
+  Gene_0518: FC=1.77, p=6.68e-01
+  Gene_0929: FC=2.00, p=6.68e-01
+  Gene_0031: FC=1.65, p=6.68e-01
+
+TOP 10 DOWNREGULATED GENES:
+  Gene_0341: FC=2.79, p=8.68e-02
+  Gene_0236: FC=2.31, p=5.24e-01
+  Gene_0241: FC=1.68, p=5.79e-01
+  Gene_0188: FC=1.53, p=6.54e-01
+  Gene_0149: FC=1.51, p=6.68e-01
+  Gene_0880: FC=2.02, p=6.68e-01
+  Gene_0535: FC=2.35, p=6.68e-01
+  Gene_0077: FC=2.04, p=6.68e-01
+  Gene_0485: FC=2.11, p=6.68e-01
+  Gene_0218: FC=1.79, p=6.68e-01

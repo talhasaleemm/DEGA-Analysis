@@ -1,0 +1,13 @@
+Sample_ID,Group,Batch
+Control_1,Control,Batch1
+Control_2,Control,Batch1
+Control_3,Control,Batch1
+Control_4,Control,Batch2
+Control_5,Control,Batch2
+Control_6,Control,Batch2
+SCFA_Treated_1,SCFA_Treated,Batch1
+SCFA_Treated_2,SCFA_Treated,Batch1
+SCFA_Treated_3,SCFA_Treated,Batch1
+SCFA_Treated_4,SCFA_Treated,Batch2
+SCFA_Treated_5,SCFA_Treated,Batch2
+SCFA_Treated_6,SCFA_Treated,Batch2

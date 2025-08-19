@@ -1,0 +1,2 @@
+Gene_Symbol,Log2_Fold_Change,Fold_Change,Parametric_P_Adjusted,NonParametric_P_Adjusted,Effect_Size_Cohens_D,Regulation_Direction,Clinical_Relevance,Effect_Size_Category
+Gene_0875,1.0286088629043917,2.0400561525174576,0.04367914821956178,0.21645021645021645,4.402893077280667,Upregulated,High,Large

@@ -1,0 +1,10 @@
+Metric,Value
+Total Genes Analyzed,"1,000"
+Significantly Different Genes,1
+Percentage of Genome Affected,0.1%
+Upregulated by SCFA Treatment,54
+Downregulated by SCFA Treatment,77
+Average Fold Change (Significant),2.04x
+Maximum Fold Change Observed,3.14x
+Genes with Large Effect Size (d>0.8),1
+Most Significant P-value,4.37e-02
