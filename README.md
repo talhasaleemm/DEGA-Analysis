@@ -82,6 +82,7 @@ Notes:
 * `expression_filtered.csv` — filtered expression matrix used for downstream analysis.
 * `statistical_summary.txt` — short text summary (date of analysis, number of genes analyzed, counts of up/downregulated genes, etc.).
 * Figures: `volcano_plot.png`, `ma_plot.png`, `top_genes_heatmap.png`, `top_genes_boxplots.png`, `exploratory_analysis.png`, `quality_assessment.png`, `expression_clusters.png`, `treatment_effect_preview.png`, `comprehensive_treatment_validation.png`.
+<img width="4764" height="3537" alt="exploratory_analysis" src="https://github.com/user-attachments/assets/94c06ccf-33b2-404d-94ac-4668b069411d" />
 
 ---
 
